@@ -849,12 +849,5 @@
     "answerLink" : "Open"
         
 }
-{
- 
-    "id" : "160",
-    "question" : "Which tag is use to create a horizantal rule in html?",
-    "answerLink" : "<hr> tag is use to create a horizontal rule in html"
-        
-}
  
   ]
